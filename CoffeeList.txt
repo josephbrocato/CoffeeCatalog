@@ -1,0 +1,114 @@
+
+Caffe#Americano 15 hot false https://www.starbucks.com/menu/product/406/hot https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg?impolicy=1by1_wide_topcrop_630
+
+Veranda#Blend 5 hot false https://www.starbucks.com/menu/product/873068625/hot https://globalassets.starbucks.com/assets/2c8f40a3b37648539d74e271479b3f9a.jpg?impolicy=1by1_wide_topcrop_630
+
+Caffe#Misto 110 hot false https://www.starbucks.com/menu/product/478/hot https://globalassets.starbucks.com/assets/d668acbc691b47249548a3eeac449916.jpg?impolicy=1by1_wide_topcrop_630
+
+Featured#Starbucks#Dark#Roast#Coffee 5 hot false https://www.starbucks.com/menu/product/479/hot https://globalassets.starbucks.com/assets/0279f9c5fa5941d2a65dd183d7a0b386.jpg?impolicy=1by1_wide_topcrop_630
+
+Featured#Medium#Roast#-#Pike#Place#Roast 5 hot false https://www.starbucks.com/menu/product/480/hot https://globalassets.starbucks.com/assets/bffaf0f27e124801abcabe09f05b0fb2.jpg?impolicy=1by1_wide_topcrop_630
+
+Decaf#Pike#Place#Roast 5 hot false https://www.starbucks.com/menu/product/481/hot https://globalassets.starbucks.com/assets/51bf549cd8e9434da941fec33b820d39.jpg?impolicy=1by1_wide_topcrop_630
+
+Cappuccino 140 hot false https://www.starbucks.com/menu/product/409/hot https://globalassets.starbucks.com/assets/5c515339667943ce84dc56effdf5fc1b.jpg?impolicy=1by1_wide_topcrop_630
+
+Espresso 10 hot false https://www.starbucks.com/menu/product/410/hot https://globalassets.starbucks.com/assets/ec519dd5642c41629194192cce582135.jpg?impolicy=1by1_wide_topcrop_630
+
+Espresso#Con#Panna 35 hot false https://www.starbucks.com/menu/product/411/hot https://globalassets.starbucks.com/assets/e9330b18ae524e69bdcbe97460d6f5bb.jpg?impolicy=1by1_wide_topcrop_630
+
+Flat#White 170 hot false https://www.starbucks.com/menu/product/565/hot https://globalassets.starbucks.com/assets/fedee22e49724cd09fbcc7ee2e567377.jpg?impolicy=1by1_wide_topcrop_630
+
+Honey#Almondmilk#Flat#White 120 hot false https://www.starbucks.com/menu/product/2123158/hot https://globalassets.starbucks.com/assets/77801559b72b469583f4d484adc1bfa7.jpg?impolicy=1by1_wide_topcrop_630
+
+Pistachio#Latte 320 hot false https://www.starbucks.com/menu/product/2123404/hot https://globalassets.starbucks.com/assets/7b7b3f0c3b36442cbbd88b0d86a56088.jpg?impolicy=1by1_wide_topcrop_630
+
+Caramel#Brulee#Latte 410 hot true https://www.starbucks.com/menu/product/517/hot https://globalassets.starbucks.com/assets/7b4cdf46a99c4433bebcf3a8de9ad4f1.jpg?impolicy=1by1_wide_topcrop_630
+
+Chestnut#Praline#Latte 330 hot true https://www.starbucks.com/menu/product/873068661/hot https://globalassets.starbucks.com/assets/be2046aabb0f48e1834752aabefc4d54.jpg?impolicy=1by1_wide_topcrop_630
+
+Sugar#Cookie#Almondmilk#Latte 180 hot true https://www.starbucks.com/menu/product/2123591/hot https://globalassets.starbucks.com/assets/a7fb63cb5bee4f3d9c8fd79088be6337.jpg?impolicy=1by1_wide_topcrop_630
+
+Caffe#Latte 190 hot false https://www.starbucks.com/menu/product/407/hot https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630
+
+Cinnamon#Dolce#Latte 340 hot false https://www.starbucks.com/menu/product/414/hot https://globalassets.starbucks.com/assets/284e1571faa748f2889d0b566b71d578.jpg?impolicy=1by1_wide_topcrop_630
+
+Starbucks#Blonde#Vanilla#Latte 250 hot false https://www.starbucks.com/menu/product/2122164/hot https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630
+
+Caramel#Macchiato 250 hot false https://www.starbucks.com/menu/product/413/hot https://globalassets.starbucks.com/assets/58db701349cb48738069e8c912e2b3ac.jpg?impolicy=1by1_wide_topcrop_630
+
+Espresso#Macchiato 15 hot false https://www.starbucks.com/menu/product/412/hot https://globalassets.starbucks.com/assets/26495f2a8b644fe8960dd74e1891b7b7.jpg?impolicy=1by1_wide_topcrop_630
+
+Peppermint#Mocha 440 hot true https://www.starbucks.com/menu/product/496/hot https://globalassets.starbucks.com/assets/9c7cbbff6b6e4b2a8a9bd403e83dcdde.jpg?impolicy=1by1_wide_topcrop_630
+
+Peppermint#White#Chocolate#Mocha 510 hot true https://www.starbucks.com/menu/product/497/hot https://globalassets.starbucks.com/assets/2ffc057bd85d421590c086870b34c0be.jpg?impolicy=1by1_wide_topcrop_630
+
+Toasted#White#Chocolate#Mocha 420 hot true https://www.starbucks.com/menu/product/2122482/hot https://globalassets.starbucks.com/assets/5854eb90102d42c9a864d92e14aa8cdc.jpg?impolicy=1by1_wide_topcrop_630
+
+Caffe#Mocha 370 hot false https://www.starbucks.com/menu/product/408/hot https://globalassets.starbucks.com/assets/915736da018842e788147f7eab73db73.jpg?impolicy=1by1_wide_topcrop_630
+
+White#Chocolate#Mocha 430 hot false https://www.starbucks.com/menu/product/420/hot https://globalassets.starbucks.com/assets/3eab25199e994b689fa5c047fc31f217.jpg?impolicy=1by1_wide_topcrop_630
+
+Pistachio#Cream#Cold#Brew 250 cold false https://www.starbucks.com/menu/product/2123702/iced https://globalassets.starbucks.com/assets/00fc85c070d945f6a9ec2da22b68f50d.jpg?impolicy=1by1_wide_topcrop_630
+
+Chocolate#Cream#Cold#Brew 250 cold false https://www.starbucks.com/menu/product/2123644/iced https://globalassets.starbucks.com/assets/ff03ead58dde47c485049baa5f736793.jpg?impolicy=1by1_wide_topcrop_630
+
+Salted#Caramel#Cream#Cold#Brew 240 cold false https://www.starbucks.com/menu/product/2122795/iced https://globalassets.starbucks.com/assets/64da774b521447f690c20290cd4cb29d.jpg?impolicy=1by1_wide_topcrop_630
+
+Irish#Cream#Cold#Brew 200 cold false https://www.starbucks.com/menu/product/2123139/iced https://globalassets.starbucks.com/assets/a73482f62665458291eb70a45264ca1c.jpg?impolicy=1by1_wide_topcrop_630
+
+Starbucks#Cold#Brew#Coffee 5 cold false https://www.starbucks.com/menu/product/2121255/iced https://globalassets.starbucks.com/assets/103b2b745f4848f884b793696a4573b6.jpg?impolicy=1by1_wide_topcrop_630
+
+Vanilla#Sweet#Cream#Cold#Brew 110 cold false https://www.starbucks.com/menu/product/2121859/iced https://globalassets.starbucks.com/assets/07951b9a7d7d47a2892dfa7a707fd318.jpg?impolicy=1by1_wide_topcrop_630
+
+Starbucks#Cold#Brew#Coffee#with#Milk 35 cold false https://www.starbucks.com/menu/product/2121343/iced https://globalassets.starbucks.com/assets/bcf41cb5ff8f455fa945428c8d05c3f2.jpg?impolicy=1by1_wide_topcrop_630
+
+Nitro#Cold#Brew 5 cold false https://www.starbucks.com/menu/product/2121912/iced https://globalassets.starbucks.com/assets/8c5dcfa053504f85b3e7af2fa451346d.jpg?impolicy=1by1_wide_topcrop_630
+
+Vanilla#Sweet#Cream#Nitro#Cold#Brew 70 cold false https://www.starbucks.com/menu/product/2122237/iced https://globalassets.starbucks.com/assets/30b4049d49f64f8a8085e6d7808b4ae4.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Caffe#Americano 15 cold false https://www.starbucks.com/menu/product/406/iced https://globalassets.starbucks.com/assets/921a409e6f55407da52eee4c8ad13ada.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Coffee 80 cold false https://www.starbucks.com/menu/product/422/iced https://globalassets.starbucks.com/assets/c44960d6621844c99fa896a83278f122.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Coffee#with#Milk 110 cold false https://www.starbucks.com/menu/product/482/iced https://globalassets.starbucks.com/assets/062aac2b949a40e188e832c868803b58.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Espresso 10 cold false https://www.starbucks.com/menu/product/410/iced https://globalassets.starbucks.com/assets/7e0863732426489d81f0167e5a3fdaf2.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Toasted#Vanilla#Oatmilk#Shaken#Espresso 140 cold false https://www.starbucks.com/menu/product/2123632/iced https://globalassets.starbucks.com/assets/9a51e00fff1c42e8acb62fcbfcef8838.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Brown#Sugar#Oatmilk#Shaken#Espresso 120 cold false https://www.starbucks.com/menu/product/2123431/iced https://globalassets.starbucks.com/assets/5bfe4972905a400c97717ce4176ebe92.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Chocolate#Almondmilk#Shaken#Espresso 110 cold false https://www.starbucks.com/menu/product/2123430/iced https://globalassets.starbucks.com/assets/b0f45bda44464780a601e51cb404f780.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Shaken#Espresso 100 cold false https://www.starbucks.com/menu/product/2123425/iced https://globalassets.starbucks.com/assets/ce4ff582482446d08d56ab49fe54bc40.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Flat#White 150 cold false https://www.starbucks.com/menu/product/565/iced https://globalassets.starbucks.com/assets/a1d7c679325f4c32ab5441f051aa0767.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Honey#Almondmilk#Flat#White 100 cold false https://www.starbucks.com/menu/product/2123158/iced https://globalassets.starbucks.com/assets/a651497f08314edd9a213950c2865e8c.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Pistachio#Latte 260 cold false https://www.starbucks.com/menu/product/2123404/iced https://globalassets.starbucks.com/assets/a3eacb2a29f1439f917d7dae230b2771.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Caramel#Brulee#Latte 400 cold true https://www.starbucks.com/menu/product/517/iced https://globalassets.starbucks.com/assets/616071114f834a3b9793ec3f7273daab.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Chestnut#Praline#Latte 320 cold true https://www.starbucks.com/menu/product/873068661/iced https://globalassets.starbucks.com/assets/f54709be9c55478abd9d02018a1d2f5f.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Sugar#Cookie#Almondmilk#Latte 150 cold true https://www.starbucks.com/menu/product/2123591/iced https://globalassets.starbucks.com/assets/069f5ad232da48d7aa844236488607af.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Caffe#Latte 130 cold false https://www.starbucks.com/menu/product/407/iced https://globalassets.starbucks.com/assets/f4fd128c834643fa8c74f4ae9f579013.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Cinnamon#Dolce#Latte 300 cold false https://www.starbucks.com/menu/product/414/iced https://globalassets.starbucks.com/assets/b5ee0554cdd64959a86530922cea7991.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Starbucks#Blonde#Vanilla#Latte 190 cold false https://www.starbucks.com/menu/product/2122164/iced https://globalassets.starbucks.com/assets/1b317a079984402895bb5cf4d2894940.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Caramel#Macchiato 250 cold false https://www.starbucks.com/menu/product/413/iced https://globalassets.starbucks.com/assets/363835b1db024636adeb4089ebb96291.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Peppermint#Mocha 420 cold true https://www.starbucks.com/menu/product/496/iced https://globalassets.starbucks.com/assets/8fd5aa3d9633472c98cc8a016c330a4f.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#White#Chocolate#Mocha 420 cold true https://www.starbucks.com/menu/product/420/iced https://globalassets.starbucks.com/assets/b80d893714854b5c946ee6c7f0d369d7.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Peppermint#White#Chocolate#Mocha 490 cold true https://www.starbucks.com/menu/product/497/iced https://globalassets.starbucks.com/assets/a66267c539b84c8c9859d62524a2cd3b.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Toasted#White#Chocolate#Mocha 400 cold true https://www.starbucks.com/menu/product/2122482/iced https://globalassets.starbucks.com/assets/a3c0257844e54d359790ce2e427154e9.jpg?impolicy=1by1_wide_topcrop_630
+
+Iced#Caffe#Mocha 350 cold false https://www.starbucks.com/menu/product/408/iced https://globalassets.starbucks.com/assets/0360378c6e774cc3a38d870fc75d5462.jpg?impolicy=1by1_wide_topcrop_630
